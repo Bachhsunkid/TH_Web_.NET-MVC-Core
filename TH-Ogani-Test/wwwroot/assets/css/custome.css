@@ -1,0 +1,30 @@
+﻿.product__pagination {
+    margin: 0 auto;
+}
+
+.pagination li {
+    margin: 0 4px;
+    line-height: 1.8;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #333;
+}
+.pagination li a{
+    color: #333;
+    text-align: center;
+    text-decoration: none;
+}
+.pagination li.active {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #b2b2b2;
+    font-size: 14px;
+    color: #fff;
+    background-color: #7fad39;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    margin: 0 4px;
+}
+
