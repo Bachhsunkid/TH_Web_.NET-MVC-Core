@@ -53,8 +53,9 @@
 <h1>ProductList</h1>
 
 <p>
-    <a asp-area="admin" asp-controller="HomeAdmin" asp-action="Create">Create New</a>
+    <a asp-area="admin" asp-controller="HomeAdmin" asp-action="Addproductv2">Create New</a>
 </p>
+<p>@TempData["Messsage"]</p>
 <table class="table">
     <thead class="table-success">
         <tr>
@@ -113,9 +114,9 @@
             </td>
             
             <td>
-                <a asp-controller="HomeAdmin" asp-action="UpdateProduct" asp-route-maSp="@item.MaSp">Edit</a> |
-                <a  asp-route-id="@item.MaSp">Details</a> |
-                <a asp-controller="HomeAdmin" asp-action="DeleteProduct" asp-route-maSp="@item.MaSp">Delete</a>
+                <a asp-action="Editproductv2" asp-route-maSp="@item.MaSp">Edit</a> |
+                <a asp-action="DetailProduct" asp-route-maSp="@item.MaSp">Details</a> |
+                <a asp-action="DeleteProductv2" asp-route-maSp="@item.MaSp">Delete</a>
             </td>
         </tr>
 }

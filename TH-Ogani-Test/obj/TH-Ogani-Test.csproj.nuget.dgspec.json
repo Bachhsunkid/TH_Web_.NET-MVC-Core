@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\TH-Ogani-Test.csproj": {}
+    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\TH-Ogani-Test.csproj": {}
   },
   "projects": {
-    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\TH-Ogani-Test.csproj": {
+    "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\TH-Ogani-Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
+        "projectUniqueName": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
         "projectName": "TH-Ogani-Test",
-        "projectPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
+        "projectPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\obj\\",
+        "outputPath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILy4mek/+JcINrZvnRcLKyx3RqpTMRyh6lNut3l2GT1qmwoxLl70Ug3po4b7s+3yqP1ZxPLpIu0ONlKIMH3VKw==",
+  "dgSpecHash": "Y7P5hbtIzxnn+g5E5PiBxGQfKZqc2j1gKh5sHZLGZoUhnzd5O32kj/kLgt+35dREhhOwnpiORIWY+K/HjtPqBQ==",
   "success": true,
-  "projectFilePath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH-Ogani-Test\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
+  "projectFilePath": "D:\\UTC di hoc\\ki6\\lap-trinh-web-6-4\\ThucHanh\\TH_Web_.NET-MVC-Core\\TH-Ogani-Test\\TH-Ogani-Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

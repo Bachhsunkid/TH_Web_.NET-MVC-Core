@@ -8,61 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TH_Ogani_Test
 build_property.RootNamespace = TH_Ogani_Test
-build_property.ProjectDir = D:\UTC di hoc\ki6\lap-trinh-web-6-4\ThucHanh\TH-Ogani-Test\TH-Ogani-Test\
+build_property.ProjectDir = D:\UTC di hoc\ki6\lap-trinh-web-6-4\ThucHanh\TH_Web_.NET-MVC-Core\TH-Ogani-Test\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UTC di hoc\ki6\lap-trinh-web-6-4\ThucHanh\TH-Ogani-Test\TH-Ogani-Test
+build_property.MSBuildProjectDirectory = D:\UTC di hoc\ki6\lap-trinh-web-6-4\ThucHanh\TH_Web_.NET-MVC-Core\TH-Ogani-Test
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/AddProductForm.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/AddProductForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEFkZFByb2R1Y3RGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Create.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Addproductv2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEFkZHByb2R1Y3R2Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Editproductv2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVkaXRwcm9kdWN0djIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/ProductList.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFByb2R1Y3RMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/UpdateProduct.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/HomeAdmin/UpdateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFVwZGF0ZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/Home/Index.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/Home/Privacy.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/Shared/Error.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/_ViewImports.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/_ViewStart.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH-Ogani-Test/TH-Ogani-Test/Views/Shared/_Layout.cshtml]
+[D:/UTC di hoc/ki6/lap-trinh-web-6-4/ThucHanh/TH_Web_.NET-MVC-Core/TH-Ogani-Test/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-todsiy5sl8
